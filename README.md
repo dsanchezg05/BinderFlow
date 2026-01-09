@@ -1,10 +1,3 @@
-<div align="center">
-  <div>&nbsp;</div>
-  <img src="BFmonitor/figures/binderflow.png" width="300"/>
-</div>
-
- [GitHub documentation in progress, please be patient]
-
 
 ## Introduction
 
