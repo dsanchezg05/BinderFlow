@@ -47,6 +47,7 @@ To get complete information about BinderFlow designing options and initial setti
 ## BFmonitor
 
 BFmonitor is a web-based dashboard that includes tools to monitor campaigns, evaluate designs, and select hits for DNA synthesis. It is subdivided into three different tabs:
+- Input Tab: Analyse the molecule and prepare the design interactively.
 - Live Watcher: See design metrics in a scatterplot, apply filters and make pairwise comparisons between designs
 - Pipeline Tracking: Check the current state of each batch, and the log files from each of the process
 - Extraction: Visualize the structures of the designs, select hits, and extract the pdbs, fasta and DNA sequence for ordering
